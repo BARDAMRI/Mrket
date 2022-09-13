@@ -1,0 +1,28 @@
+Real Time message: 
+you got appointed as owner to shop removingShop by removerA
+
+
+Real Time message: 
+Unfortunately, your appointment as removerB in shop removingShop has been canceled.
+
+
+Real Time message: 
+you got appointed as owner to shop removingShop by removerA
+
+
+Real Time message: 
+Unfortunately, your appointment as removerB in shop removingShop has been canceled.
+
+
+Real Time message: 
+Hello removerB. Your appointment by removerA to the shop removingShop has been approved.
+
+Real Time message: 
+There was a new appointment in shop removingShop, removerB appointed removerC for shop owner
+
+Real Time message: 
+Hello removerB. Your appointment by removerA to the shop removingShop has been approved.
+
+Real Time message: 
+There was a new appointment in shop removingShop, removerB appointed removerC for shop owner
+

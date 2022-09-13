@@ -1,0 +1,4 @@
+Real Time message: 
+mno submitted a buying offer in the shop shopName5, to buy itemToBuy for the amount of 10.0
+
+
